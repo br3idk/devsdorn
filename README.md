@@ -29,3 +29,6 @@ http://localhost/desafiophp/cobrar_anuidade.php?id=[ID_DO_ASSOCIADO]
 - Cadastro e listagem de associados.
 - Cadastro e cobrança de anuidades.
 - Registro de pagamentos e exibição de status.
+
+## P.s
+- Nota: Código feito com auxílio da ferramenta ChatGPT.
